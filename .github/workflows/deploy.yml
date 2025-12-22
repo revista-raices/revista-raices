@@ -6,7 +6,7 @@ on:
       - v4
 
 env:
-  THEME_NAME: obsidian-gruvbox
+  THEME_NAME: typewriter
 
 permissions:
   contents: read
