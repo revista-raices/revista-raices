@@ -1,10 +1,10 @@
 ---
 title: Inicio
 ---
+# [[Actual]]
+La última edición de la Revista Raícaes
+# [[Archivo]]
+Algo así como publicaciones viejas o no sé
 
-# Hola
-Esto es una prueba:
-![[proxy-image.jpg]]
-![[proxy-image 1.jpg]]
-
-}muy bien
+# [[Acerca de]]
+Información del equipo y eso
