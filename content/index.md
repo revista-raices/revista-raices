@@ -1,12 +1,12 @@
 ---
 title: Inicio
 ---
-## [[Actual]]
-La última edición de la Revista Raícaes
-## [[Archivo]]
-Algo así como publicaciones viejas o no sé
-## [[Acerca de]]
-Información del equipo y eso
+# [[Actual]]
+> ¡Consultá la última edición de la Revista Raíces!
+# [[Archivo]]
+> ¡Accedé a las publicaciones antiguas de nuestra revista!
+# [[Acerca de]]
+> ¡Conocé más acerca de nuestro proyecto!
 
 ![[proxy-image.jpg]]
 
