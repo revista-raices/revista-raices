@@ -1,5 +1,7 @@
 ---
-title: Inicio
+title: |-
+  REVISTA RAÍCES
+  Revista estudiantil de antropología y arqueología de la Universidad de Costa Rica
 ---
 ## [[Actual]]
 La última edición de la Revista Raícaes

@@ -2,5 +2,5 @@
 title: Archivo
 ---
 
-# Primera edición
+# Volumen 1 - Número 1 - Revista Raíces
 ![[primera_edicion 1.pdf]]
