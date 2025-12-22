@@ -2,7 +2,6 @@
 title: Inicio
 ---
 
-
-
-aaaa
-Hola mundo?
+# Hola
+Esto es una prueba:
+![[proxy-image.jpg]]}muy bien
