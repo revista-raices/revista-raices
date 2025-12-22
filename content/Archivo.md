@@ -1,13 +1,10 @@
+---
+title: Archivo
+---
+
 # Primera edición
-
-
-
----
-title: "PDF Example"
----
-
 <iframe
   src="https://drive.google.com/file/d/1n89EuUQnTUj2vrz-1_ORtx0EbKHRIvJr/view?usp=drive_link"
-  width="120%"
+  width="100%"
   height="400px"
 ></iframe>
