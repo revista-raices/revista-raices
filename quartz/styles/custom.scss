@@ -1,3 +1,6 @@
-@use "./base.scss";
+/* styles/custom.scss */
 
-// put your custom CSS here!
+/* Change the color of the top-left "Quartz 4" title */
+.siteTitle {
+  color: #646c43 !important;
+}
