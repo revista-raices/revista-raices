@@ -1,7 +1,7 @@
-@use "./base.scss";
+/* styles/custom.scss */
 
-// put your custom CSS here!
-a.siteTitle,
-a.siteTitle:hover {
+/* Change top-left site title color */
+.siteTitle,
+.siteTitle * {
   color: #646c43 !important;
 }
