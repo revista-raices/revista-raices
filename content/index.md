@@ -4,7 +4,7 @@ title: Inicio
 
 
 ---
-# [[Actual]]
+# [[Actual]] 
 > ¡Consultá la última edición de la Revista Raíces!
 # [[Archivo]]
 > ¡Accedé a las publicaciones antiguas de nuestra revista!
@@ -12,7 +12,5 @@ title: Inicio
 > ¡Descubrí cómo publicar un texto en nuestra revista!
 # [[Acerca de]]
 > ¡Conocé más acerca de nuestro proyecto!
-
-
 
 
