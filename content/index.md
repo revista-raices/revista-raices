@@ -4,7 +4,9 @@ title: Inicio
 
 
 ---
-# [[Actual]] 
+# [[Convocatoria de textos]] 
+> ¡Revisá nuestro último llamado para textos! 
+# [[Número Actual]] 
 > ¡Consultá la última edición de la Revista Raíces!
 # [[Archivo]]
 > ¡Accedé a las publicaciones antiguas de nuestra revista!

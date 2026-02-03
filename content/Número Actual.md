@@ -3,7 +3,7 @@ title: Actual
 ---
 # **REVISTA RAÍCES - II EDICIÓN**
 
-
+*(También disponible en: [Repositorio Kerwa](https://www.kerwa.ucr.ac.cr/items/bf90e0aa-1db2-4134-b656-cb8b082bde0c) e [Internet Archive](https://archive.org/details/raices-revista-estudiantil-de-antropologia-y-arqueologia-ii-edicion))*
 
 > ## [Carta Editorial - II Edición](https://drive.google.com/file/d/1sE9p4J6t_RWg4Ar6MBBHEUTLzJO4EEs1/view?usp=drive_link)
 > 	Dirección Editorial

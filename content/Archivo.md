@@ -2,7 +2,7 @@
 title: Archivo
 ---
 # **REVISTA RAÍCES - I EDICIÓN**
-
+*(También disponible en: [Repositorio Kerwa](https://www.kerwa.ucr.ac.cr/items/ac6aaaea-4d9e-40ad-b7da-09368e04e419) e [Internet Archive](https://archive.org/details/raices-revista-estudiantil-de-antropologia-y-arqueologia-i-edicion_202601))*
 
 
 
