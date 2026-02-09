@@ -1,98 +1,70 @@
 ### **Dirección Editorial**
+Sebastián Alberto Araya Vargas, Director
 
-  
+Paula Arguedas Rojas, Subdirectora
 
-#### Sebastián Alberto Araya Vargas, Director
-
-#### Paula Arguedas Rojas, Subdirectora
-
-#### Ana Elena Gómez García, Secretaria
-
-  
-  
+Ana Elena Gómez García, Secretaria
 
 ### **Consejo Editorial**
+Fernanda Alvarado Sandí
 
-  
+Jennifer Arias Sánchez
 
-#### Fernanda Alvarado Sandí
+Lucia Montero Porras
 
-#### Jennifer Arias Sánchez
+Tábata Redondo Chacón
 
-#### Lucia Montero Porras
+Guillermo Sequeira Rojas
 
-#### Tábata Redondo Chacón
+Conrad Umaña Loría
 
-#### Guillermo Sequeira Rojas
-
-#### Conrad Umaña Loría
-
-#### Nicole Villalobos Espinoza
-
-  
-  
+Nicole Villalobos Espinoza
 
 ### **Consejo Editorial Técnico**
+Jenny Fernández Amenabar
 
-  
+Saray Segreda Calderón
 
-#### Jenny Fernández Amenabar
+Isaac Vargas Granados
 
-#### Saray Segreda Calderón
-
-#### Isaac Vargas Granados
-
-#### Ana Victoria Villalobos Sánchez
-
-  
-  
+Ana Victoria Villalobos Sánchez
 
 ### **Consejo Difusión**
+Jéssica Aguilar Elizondo
 
+Teber Céspedes Jiménez
+
+David Sánchez Martínez
+
+Saray Segreda Calderón
+
+Emily Valles Mora
   
+### **Consejo Asesor**
+M.Sc. Natasha Alpízar Lobo
 
-#### Jéssica Aguilar Elizondo
+Dra. María del Carmen Araya Jiménez
 
-#### Teber Céspedes Jiménez
+Lic. Julián Cruz Carillo
 
-#### David Sánchez Martínez
+M.Sc. Arianna Fernández Muñoz
 
-#### Saray Segreda Calderón
+Bach. Evelyn Leandro
 
-#### Emily Valles Mora
+Dra. Claudia Palma Campos
 
-  
-  
-  
+Dr. Jeffrey Peytrequín Gómez
 
-### ** NO SÉ**
+M.Sc. Kathy Piedra Corella
 
-  
+Dra. Carolina Quesada Cordero
 
-#### M.Sc. Natasha Alpízar Lobo
+Dr. Pablo Quintero Mansilla
 
-#### Dra. María del Carmen Araya Jiménez
+Dr. Onésimo Rodríguez Aguilar
 
-#### Lic. Julián Cruz Carillo
+M.Sc. Erick Rojas Vargas
 
-#### M.Sc. Arianna Fernández Muñoz
+Mg. Julián Trovero
 
-#### Bach. Evelyn Leandro
-
-#### Dra. Claudia Palma Campos
-
-#### Dr. Jeffrey Peytrequín Gómez
-
-#### M.Sc. Kathy Piedra Corella
-
-#### Dra. Carolina Quesada Cordero
-
-#### Dr. Pablo Quintero Mansilla
-
-#### Dr. Onésimo Rodríguez Aguilar
-
-#### M.Sc. Erick Rojas Vargas
-
-#### Mg. Julián Trovero
-
-#### Dr. Mario Zúñiga Núñez
+Dr. Mario Zúñiga Núñez
