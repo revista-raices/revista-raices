@@ -1,4 +1,6 @@
-(se me ocurre que podemos hacer una previsualización del post de Instagram nada más! :) )
+Consultá nuestra última convocatoria abierta de textos a través del [siguiente enlace](https://www.instagram.com/p/DUjQsahEuhX/).
+
+
 
 <iframe 
   src="https://www.instagram.com/p/DUjQsahEuhX/embed" 
