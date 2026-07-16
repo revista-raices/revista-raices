@@ -4,9 +4,7 @@ Si sos estudiante de antropología, arqueología o tenés algún texto que quier
   
 Tenés tiempo hasta el **16 de agosto** para enviarlo al correo: recepciones.raices@gmail.com  
 
-Recordá revisar las [[Instrucciones para publicar]].
-
-
+Recordá revisar las [[Instrucciones para publicar]]
 
 <iframe 
   src="https://www.instagram.com/p/DaRY7s3loRl/embed" 
@@ -16,4 +14,3 @@ Recordá revisar las [[Instrucciones para publicar]].
   scrolling="no"
   allowtransparency="true">
 </iframe>
-
