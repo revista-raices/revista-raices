@@ -1,25 +1,26 @@
 ---
 title: Actual
 ---
-# **REVISTA RAÍCES - II EDICIÓN**
+# **REVISTA RAÍCES - III EDICIÓN**
 
-*(También disponible en: [Repositorio Kerwa](https://www.kerwa.ucr.ac.cr/items/bf90e0aa-1db2-4134-b656-cb8b082bde0c) e [Internet Archive](https://archive.org/details/raices-revista-estudiantil-de-antropologia-y-arqueologia-ii-edicion))*
+*(También disponible en: [Internet Archive](https://archive.org/details/revista-raices-edicion-iii))*
 
-> ## [Carta Editorial - II Edición](https://drive.google.com/file/d/1sE9p4J6t_RWg4Ar6MBBHEUTLzJO4EEs1/view?usp=drive_link)
+> ## [Carta Editorial - III Edición](https://drive.google.com/file/d/1xVUGNVFxBwgF0yBQMqBdSN86k5IhPoqG/view?usp=sharing)
 > 	Dirección Editorial
 
-> ## [Hablemos del 48: el radioteatro y la historia de vida de una infancia costarricense en tiempos de revolución](https://drive.google.com/file/d/1o0bLVAUsCpelJqtvhtw-AZ1_snlMdCLx/view?usp=sharing)
-> 	Ana Elena Gómez García y Valeria Solano Corrales
+> ## [Burocracia, miedo y frustración: una aproximación antropológica al aprovechamiento de la beca socioeconómica categoría cinco en la sede Rodrigo Facio de la Universidad de Costa Rica](https://drive.google.com/file/d/1gz-METM1oTdShB_PMwh7WnXypw4gftad/view?usp=sharing)
+> 	Sebastián Alberto Araya-Vargas
 
-> ## [Hegemonía interna y la construcción del imaginario nacional: una aproximación antropológica del genocidio actual en Palestina](https://drive.google.com/file/d/1NaHm7bGjpOTILRTKdp5WRbEdZbqqaurx/view?usp=sharing)
-> 	Fabiana Méndez Madrigal, Valentina Quedo Coronado y Emily Valles Mora
+> ## [La Identidad, el Poder y el Lenguaje a Partir de las Experiencias de Personas Migrantes Nicaragüenses](https://drive.google.com/file/d/1Ms978I-wFKFd4Gm9-S_nkcqe2C9P9Udl/view?usp=sharing)
+> 	Noam Elizondo Delgado, Ekaitz López Cortés, Conrad Umaña Loría, Sebastián J. Villegas Jiménez
 
+> ## [Una lectura antropológica y ecocrítica de la novela "Todo se desmorona" de Chinua Achebe](https://drive.google.com/file/d/1f-34F-45qSxB57AwUjeXPNLWfHOea0sX/view?usp=sharing)
+> 	Andrés Rodríguez Arias
 
-> ## [Crisis ecológica, contingencia y la falacia de la excepcionalidad humana: hacia una lectura antropológica de sistemas abiertos](https://drive.google.com/file/d/1x9uYMXvsbMdkH1_ItHfJYzx1w-s8tceQ/view?usp=sharing)
-> 	Alfredo Montero Fonseca
+> ## [Vivencia de identidad cuir en distintas generaciones: comparación entre personas de 20 a 40 años, según cada contexto específico](https://drive.google.com/file/d/1W-icMYeufb1wR3tIcxB_5JxqJ51-7H_m/view?usp=sharing)
+> 	Nicole Villalobos Espinoza
 
-
-> ## [Revista Raíces - II Edición](https://drive.google.com/file/d/1pkkIpXINvS13rfRWR5PKDTfZanV7vjbj/view?usp=drive_link)
+> ## [Revista Raíces - III Edición](https://drive.google.com/file/d/1BfZnqqikMm1LTg_njoxjiN212MuRb8pR/view?usp=sharing)
 > 	Número completo
 
 
